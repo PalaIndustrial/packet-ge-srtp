@@ -44,5 +44,5 @@ This dissector has been developed and tested with Wireswhark v3.x.
 1. https://sourceforge.net/projects/libopensrtp/ : ge-srtp C implementation
 2. https://github.com/TheMadHatt3r/ge-ethernet-SRTP : ge-srtp python implementation
 3. https://github.com/youk-wu/RobotIntelface : Open-source FANUC RobotDK (alpha stage)
-4. https://github.com/Palatis/Palatis.Fanuc.RobotInterface : Open-source FANUC RobotDK (talks over ge-srtp and SNPX)
+4. https://github.com/Palatis/Fanuc.RobotInterface : Open-source FANUC RobotDK (talks over ge-srtp and SNPX)
 5. https://www.researchgate.net/publication/318925679_Leveraging_the_SRTP_protocol_for_over-the-network_memory_acquisition_of_a_GE_Fanuc_Series_90-30 : analyze of the ge-srtp protocol
